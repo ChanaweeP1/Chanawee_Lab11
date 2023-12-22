@@ -4,7 +4,7 @@
 using namespace std;
 
 int main(){
-    int x,i;
+    int i;
     string grade [] = {"A", "B+","B","C+","C","D+","D","F","W"}; 
     cout << "Press Enter 3 times to reveal your future.";
     cin.get();
